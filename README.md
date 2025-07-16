@@ -1,9 +1,9 @@
 # analog-ic-design-1048-ITS-2025
-Analog IC Design portfolio (July–August 2025) — simulations and layouts using GF180MCU CMOS process (Google-SkyWater PDK)
+Analog IC Design portfolio — simulations and layouts using GF180MCU CMOS process (Google-SkyWater PDK)
 # Analog IC Design Portfolio – Melyana Putri 
 This repository contains all assignments and projects from the **Analog IC Design: From
 Fundamentals to Tape-Out** course by a team from the Microelectronics and Embedded Systems Lab of
-Institut Teknologi Sepuluh Nopember Surabaya (July–August 2025).
+Institut Teknologi Sepuluh Nopember Surabaya.
 ## 🛠 Tools & Technology
 - **PDK**: GF180MCU (Google-SkyWater Open-Source PDK)
 - **EDA Tools**: xschem, ngspice, Magic VLSI
